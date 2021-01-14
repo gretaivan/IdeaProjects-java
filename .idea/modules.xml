@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/modules/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Bus tour/IdeaProjects.Problems-Bus_tour.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Bus tour/IdeaProjects.Problems-Bus_tour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Bus tour/IdeaProjects.Problems-Bus_tour.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Bus tour/IdeaProjects.Problems-Bus_tour.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Bus tour/IdeaProjects.Problems-Bus_tour.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Bus tour/IdeaProjects.Problems-Bus_tour.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/IdeaProjects.Problems-Good_rest_on_vacation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/IdeaProjects.Problems-Good_rest_on_vacation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/IdeaProjects.Problems-Good_rest_on_vacation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/IdeaProjects.Problems-Good_rest_on_vacation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/IdeaProjects.Problems-Good_rest_on_vacation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/IdeaProjects.Problems-Good_rest_on_vacation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sequence/IdeaProjects.Problems-The_sequence.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sequence/IdeaProjects.Problems-The_sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sequence/IdeaProjects.Problems-The_sequence.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sequence/IdeaProjects.Problems-The_sequence.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sequence/IdeaProjects.Problems-The_sequence.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sequence/IdeaProjects.Problems-The_sequence.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/IdeaProjects.Simple_Chatty_Bot-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/IdeaProjects.Simple_Chatty_Bot-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/IdeaProjects.Simple_Chatty_Bot-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/IdeaProjects.Simple_Chatty_Bot-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/IdeaProjects.Simple_Chatty_Bot-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/IdeaProjects.Simple_Chatty_Bot-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/IdeaProjects.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/IdeaProjects.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/IdeaProjects.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/IdeaProjects.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/IdeaProjects.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/IdeaProjects.util.test.iml" />
+    </modules>
+  </component>
+</project>

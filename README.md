@@ -1,6 +1,6 @@
 # IdeaProjects-java
 
-##Projects and problems built to learn and improve programming theory
+## Projects and problems built to learn and improve programming theory
 
 **Problems:**  Variety of short problems, to imporove programming skills and experiment with syntax
 
